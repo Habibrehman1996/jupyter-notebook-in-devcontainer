@@ -3,13 +3,12 @@
 - Create a Directory
 <br>
 ```
-
  `mkdir hello-world-first-application`
+```
 
 - Change Directory Location
-
 <br>
-
-`cd hello-world-first-application`
-
 ```
+`cd hello-world-first-application`
+```
+
