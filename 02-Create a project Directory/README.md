@@ -5,13 +5,11 @@
 ```
 
  `mkdir hello-world-first-application`
-```
 
 - Change Directory Location
 
 <br>
 
-```
 `cd hello-world-first-application`
 
 ```
