@@ -1,4 +1,4 @@
-#02-Create a project Directory
+# 02-Create a project Directory
 
 Create a Directory
   mkdir hello-world-first-application
