@@ -10,3 +10,11 @@
 
 ```cd hello-world-first-application```
 
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
